@@ -1,2 +1,3 @@
 # First-Repo
-My first repository on github
+My first repository on github...
+A Real Estate Professional taking a so-far interesting journey into Tech (starting with uiux, goal is product management). I love providing solutions.
